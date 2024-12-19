@@ -1,6 +1,6 @@
 # Introduction to Programming.
 
-## Day 1:
+## Day 1 - Introduction to Programming:
 
 - Number System
 - Decimal Number (base 10) [0,1,2,3,4,5,6,7,8,9]
@@ -13,7 +13,9 @@
 - Data Structure
 - Algorithms
 
-## Day 2:
+[![Homework Badge](https://img.shields.io/badge/Homework-Pending-green)](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk/edit?tab=t.0)
+
+## Day 2 - Flowchart and Pseudocode:
 
 - Flowchart and Pseudocode.
 
@@ -30,3 +32,10 @@
 - sum of n natuaral numbers
 - Given Number is prime or not
 - Basics of Operators (+ , - , \* , / , %)
+
+[![Homework Badge](https://img.shields.io/badge/Homework-Pending-green)](https://docs.google.com/document/d/1ighQuVjhWbIcBLko_l24Nn3rNch9MKxaWjKgXP2Y-OI/edit?tab=t.0)
+
+# Day 3 - Start C++:
+
+- Memory Unit
+-
